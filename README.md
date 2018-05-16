@@ -7,6 +7,15 @@ Keywords: *digital architecture, design systems, markdown, interactive notebooks
 
 [Syllabus](https://ocadu-web.github.io/syllabus.pdf)
 
+#### Itineraries
+
+[I - Fundamentals](https://ocadu-web.github.io/itineraries/I-Fundamentals.md) | [II - Git + Open Source](https://ocadu-web.github.io/II-Git-Open-Source.md)
+
+
+
+
+
+
 
 
 
