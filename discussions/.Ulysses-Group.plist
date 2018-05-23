@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Design Systems.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>548641120.55269599</real>
+				<key>version</key>
+				<dict>
+					<key>f3fa6e7575aebb0e0769bddd79e125ee962d7d22c2b39fde567a8417e32de8f1</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Digital Architecture.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>548641120.55269694</real>
+				<key>version</key>
+				<dict>
+					<key>f3fa6e7575aebb0e0769bddd79e125ee962d7d22c2b39fde567a8417e32de8f1</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Git-Github.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>548641120.55269802</real>
+				<key>version</key>
+				<dict>
+					<key>f3fa6e7575aebb0e0769bddd79e125ee962d7d22c2b39fde567a8417e32de8f1</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Javascript.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>548641194.41380095</real>
+				<key>version</key>
+				<dict>
+					<key>f3fa6e7575aebb0e0769bddd79e125ee962d7d22c2b39fde567a8417e32de8f1</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>Markdown.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>548641120.55269802</real>
+				<key>version</key>
+				<dict>
+					<key>f3fa6e7575aebb0e0769bddd79e125ee962d7d22c2b39fde567a8417e32de8f1</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Understanding HTML Design.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>548641120.55269802</real>
+				<key>version</key>
+				<dict>
+					<key>f3fa6e7575aebb0e0769bddd79e125ee962d7d22c2b39fde567a8417e32de8f1</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>git-theory-commands.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>548739384.17392802</real>
+				<key>version</key>
+				<dict>
+					<key>f3fa6e7575aebb0e0769bddd79e125ee962d7d22c2b39fde567a8417e32de8f1</key>
+					<integer>23</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>git-theory-commands.md</string>
+		</array>
+		<array>
+			<string>Javascript.md</string>
+		</array>
+		<array>
+			<string>Design Systems.md</string>
+		</array>
+		<array>
+			<string>Digital Architecture.md</string>
+		</array>
+		<array>
+			<string>Understanding HTML Design.md</string>
+		</array>
+		<array>
+			<string>Markdown.md</string>
+		</array>
+		<array>
+			<string>Git-Github.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>f3fa6e7575aebb0e0769bddd79e125ee962d7d22c2b39fde567a8417e32de8f1</key>
+			<integer>24</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
