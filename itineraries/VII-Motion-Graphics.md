@@ -1,3 +1,4 @@
+## Itinerary: Motion Graphics
 
 Motion graphics techniques and tools for the web will be explored and discussed. The class will create motion scripts through a studio class of experimentation. Studio exercises will be published and documented on GitHub. 
 

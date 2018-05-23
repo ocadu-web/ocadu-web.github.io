@@ -1,3 +1,4 @@
+## Itinerary: Introduction to WebGL
 
 Introduction to the [WebGL][1] API. Students will be introduced to 3D on the web and the concepts of shaders. The WebGL library Three.js will be explored through examples. Students will experiment with this library in Codepen. 
 

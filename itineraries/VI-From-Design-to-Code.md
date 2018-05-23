@@ -1,3 +1,4 @@
+## Itinerary: From Design to Code
 
 From Design to Code. Students will learn the anatomy of an SVG and taught practical visual design techniques to convert designs into code. 
 

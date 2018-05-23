@@ -1,5 +1,6 @@
+## Itinerary: Pure CSS Playground
 
-Studio exploration of pure CSS art and designs. Students will be encouraged to advance their CSS knowledge through Sass (https://sass-lang.com) /SCSS training and experiements in Codepen. 
+Studio exploration of pure CSS art and designs. Students will be encouraged to advance their CSS knowledge through Sass (https://sass-lang.com) /SCSS training and experiments in Codepen. 
 
 
 
