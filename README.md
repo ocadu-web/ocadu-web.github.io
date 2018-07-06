@@ -1,11 +1,3 @@
-<style>
-a {
-  background-color: rgba(75, 75, 0, 0.7);
-  border-color: yellow;
-  color: yellow;
-}
-</style>
-
 ![][image-1]
 
 # Web Systems Design
