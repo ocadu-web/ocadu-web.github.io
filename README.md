@@ -1,3 +1,10 @@
+<style>
+a {
+  background-color: rgba(75, 75, 0, 0.7);
+  border-color: yellow;
+  color: yellow;
+}
+
 ![][image-1]
 
 # Web Systems Design
@@ -11,7 +18,7 @@ Keywords: *digital architecture, design systems, markdown, interactive notebooks
 
 [I - Fundamentals][2] | [II - CLI + Open Source][3] | [III - Git to JavaScript][4] | [IV - D3 and Interactive Notebooks][5]
 
-[V - Introduction to WebGL][6] | [VI - From Design to Code][7]| [VII - Motion Graphics][8] | [VIII - Pure CSS Playground][9] 
+[V - Introduction to WebGL][6] | [VI - From Design to Code][7]| [VII - Motion Graphics][8] | [VIII - Pure CSS Playground][9]
 
 
 
