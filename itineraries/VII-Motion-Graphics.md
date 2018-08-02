@@ -3,11 +3,11 @@
 Motion graphics techniques and tools for the web will be explored and discussed. The class will create motion scripts through a studio class of experimentation. Studio exercises will be published and documented on GitHub. 
 
 
-#### :clock830: 8:30AM - 9:30AM: 
+#### :clock830: 8:30AM - 9:30AM:
 
 \- 
 
-#### :clock930: 9:30AM - 10:00AM: 
+#### :clock930: 9:30AM - 10:00AM:
 
 \- 
 
@@ -15,5 +15,4 @@ Motion graphics techniques and tools for the web will be explored and discussed.
 
 - break
 
-#### :clock1030: 10:30AM - 11:30AM: 
-
+#### :clock1030: 10:30AM - 11:30AM:

@@ -3,11 +3,11 @@
 From Design to Code. Students will learn the anatomy of an SVG and taught practical visual design techniques to convert designs into code. 
 
 
-#### :clock830: 8:30AM - 9:30AM: 
+#### :clock830: 8:30AM - 9:30AM:
 
 \- 
 
-#### :clock930: 9:30AM - 10:00AM: 
+#### :clock930: 9:30AM - 10:00AM:
 
 \- 
 
@@ -15,5 +15,4 @@ From Design to Code. Students will learn the anatomy of an SVG and taught practi
 
 - break
 
-#### :clock1030: 10:30AM - 11:30AM: 
-
+#### :clock1030: 10:30AM - 11:30AM:

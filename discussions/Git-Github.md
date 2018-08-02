@@ -7,10 +7,12 @@
 
 Git Resources
 
-[Git Services Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+[Git Services Cheatsheet][1]
 
-[Git Education Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
-
-
+[Git Education Cheatsheet][2]
 
 
+
+
+[1]:	https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+[2]:	https://education.github.com/git-cheat-sheet-education.pdf

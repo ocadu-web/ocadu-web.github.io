@@ -1,7 +1,7 @@
 ## Javascript
 
 Current version: ES6/2015
-*Discussion: [What does this all mean?][1] [Differences between ES5 and ES6][2]
+_Discussion_: [What does this all mean?][1] [Differences between ES5 and ES6][2]
 
 Topics to Learn:
 - Javascript Variables

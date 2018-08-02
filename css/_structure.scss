@@ -1,0 +1,105 @@
+
+/*
+
+Sass Style: MONOUVA v0.5
+July 6, 2018
+
+Author: Marcus A. Gordon
+
+*/
+
+body {
+    font-family: 'Source Sans Pro', 'Open Sans', Helvetica, sans-serif;
+    font-weight: lighter;
+    color:#999;
+    background: #111;
+    margin:3% 10% 0 10%;
+    position: absolute;
+    /* overflow:hidden; */
+}
+
+.light {
+  background: #fcfcfc;
+  color: #444;
+  a#btn {
+    display: inline-block;
+    float: left;
+    background: #dfdfdf;
+    color: #444455;
+    padding: 6px 15px 6px 12px; margin-bottom: 6px;
+    text-decoration: none;
+  }
+  a#btn:hover { background: #fff; color:#333 }
+
+  a#active { display: inline-block; float: left; background: #eee; color: #444455; padding: 6px 15px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
+
+  a#active:hover {
+    background: #fff;
+    color:#998099
+  }
+
+}
+
+h3, h4 {
+  font-weight: normal;
+}
+
+hr {
+  border-top: 1px dotted #666;
+  width: 60%;
+  margin: 0;
+}
+
+.docfolio img {
+    width: 155px;
+}
+
+a {color: #808c99; text-decoration: none;}
+a:hover {color:#998099;}
+
+.sassy {
+    color: #998099;
+}
+
+button {
+  border: 0;
+  border-width: 2px;
+  border-color: red;
+  background-color: rgba(250, 0, 0, 0.3);
+  color: red;
+}
+
+.key {
+  font-size: 0.75em;
+  border: 0;
+  border-width: 2px;
+  padding: 4px;
+  border-color: #998099;
+  background-color: rgba(200, 170, 200, 0.3);
+  color: #998099;
+}
+
+#quote{
+    font-size:44px;
+    line-height:50px;
+    color:#333333;
+    display: block;
+}
+
+#quote #brand {color: #9999aa;}
+#quote #idee {color: #444455;}
+
+#milieu {display: inline-block; line-height: 25px; margin-bottom: 40px; margin-top: 20px;}
+
+a#btn { display: inline-block; float: left; background: #222; color: #444455; padding: 6px 15px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
+a#btn:hover { background: #333; color:#a3baee }
+
+a#active { display: inline-block; float: left; background: #000; color: #444455; padding: 6px 15px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
+a#active:hover { background: #333; color:#a3baee }
+
+#cta { display: inline-block; float: left; background: #000; color: #444455; padding: 6px 15px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
+
+
+#footer {display: block;}
+
+.legal {font-size: 12px; color: #333333; letter-spacing: 0.1rem;}

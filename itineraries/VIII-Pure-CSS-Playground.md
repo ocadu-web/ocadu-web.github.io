@@ -4,11 +4,11 @@ Studio exploration of pure CSS art and designs. Students will be encouraged to a
 
 
 
-#### :clock830: 8:30AM - 9:30AM: 
+#### :clock830: 8:30AM - 9:30AM:
 
 \- 
 
-#### :clock930: 9:30AM - 10:00AM: 
+#### :clock930: 9:30AM - 10:00AM:
 
 \- 
 
@@ -16,5 +16,4 @@ Studio exploration of pure CSS art and designs. Students will be encouraged to a
 
 - break
 
-#### :clock1030: 10:30AM - 11:30AM: 
-
+#### :clock1030: 10:30AM - 11:30AM:
